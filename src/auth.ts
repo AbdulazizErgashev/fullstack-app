@@ -7,4 +7,4 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
   providers: [],
 });
 // https://www.youtube.com/watch?v=OmX8fryikjg&ab_channel=codewithlari
-// 18:15
+// 24:30
